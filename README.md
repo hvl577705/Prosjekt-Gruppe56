@@ -1,1 +1,2 @@
-# Prosjekt-Gruppe56
+# dat100-prosjekt-startkode-2019
+Startkode for programmeringsprosjekt
